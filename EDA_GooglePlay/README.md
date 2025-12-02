@@ -63,20 +63,20 @@ The project uses three versions of the dataset:
 - **For Marketers**: Free apps dominate installs. Consider freemium models
 
 # Visualizations
-![Category Distribution](/Projects/googleplay_eda/Figures/Figure_1-Number_apps_by_category.png)
+![Category Distribution](/EDA_GooglePlay/Assets/Figure_01-Number_apps_by_category.png)
 *Figure 1: Top 10 app categories by number of apps*
 
-![Rating Distribution](/Projects/googleplay_eda/Figures/Figure_3-Rating_Distribution.png)
+![Rating Distribution](/EDA_GooglePlay/Assets/Figure_03-Rating_Distribution.png)
 *Figure 2: Rating distribution*
 
-![Free vs Paid Comparison](/Projects/googleplay_eda/Figures/Figure_4-Free_vs_Paid_Apps.png)
+![Free vs Paid Comparison](/EDA_GooglePlay/Assets/Figure_04-Free_vs_Paid_Apps.png)
 *Figure 3: Free vs Paid Comparison*
 
-![Installs Distribution](/Projects/googleplay_eda/Figures/Figure_5-Apps_Installs.png)
+![Installs Distribution](/EDA_GooglePlay/Assets/Figure_05-Apps_Installs.png)
 *Figure 4: Installs distribution*
 
 # Interactive Dashboard
-![Interactive Dashboard](/Projects/googleplay_eda/Figures/Figure_12-Interactive_Dashboard.png))
+![Interactive Dashboard](/EDA_GooglePlay/Assets/Figure_08-Interactive_Dashboard.png)
 *Figure 5: Designed an interactive dashboard in PowerBI
 
 # Skills Demonstrated
