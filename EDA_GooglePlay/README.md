@@ -82,7 +82,7 @@ The project uses three versions of the dataset:
 # Interactive Dashboard
 ![Interactive Dashboard](/EDA_GooglePlay/Assets/Figure_08-Interactive_Dashboard.png)
 
-*Figure 5: Designed an interactive dashboard in PowerBI
+*Figure 5: Designed an interactive dashboard in PowerBI*
 
 # Skills Demonstrated
 - Ability to work with real-world messy data
