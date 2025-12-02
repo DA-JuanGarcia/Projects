@@ -1,6 +1,6 @@
 # Introduction
-This project performs a full Exploratory Data Analysis (EDA) on a Google Play Store dataset containing Android apps, their characteristics, and performance metrics (ratings, reviews, installs, size, updates, etc.).
-The goal is to clean messy real-world data, prepare it for analysis using SQL (PostgreSQL), and extract meaningful insights that could support product or business decisions.
+This project performs a full Exploratory Data Analysis (EDA) on a Google Play Store dataset containing Android apps, their characteristics and performance metrics (ratings, reviews, installs, size, updates, etc.).
+The goal is to clean messy real-world data, prepare it for analysis using SQL (PostgreSQL) and extract meaningful insights that could support product or business decisions.
 
 # Objective
 - Clean and standardize a real-world dataset using SQL
@@ -26,7 +26,7 @@ The project uses three versions of the dataset:
 
 # What I Did
 - Imported raw CSV into PostgreSQL
-- Cleaned text, numeric, and date fields using SQL 
+- Cleaned text, numeric and date fields using SQL 
 - Removed unwanted characters and blank spaces
 - Converted sizes (KB → MB) and prices to numeric
 - Standardized NULL values
