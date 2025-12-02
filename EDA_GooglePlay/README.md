@@ -67,13 +67,16 @@ The project uses three versions of the dataset:
 
 *Figure 1: Top 10 app categories by number of apps*
 
+
 ![Rating Distribution](/EDA_GooglePlay/Assets/Figure_03-Rating_Distribution.png)
 
 *Figure 2: Rating distribution*
 
+
 ![Free vs Paid Comparison](/EDA_GooglePlay/Assets/Figure_04-Free_vs_Paid_Apps.png)
 
 *Figure 3: Free vs Paid Comparison*
+
 
 ![Installs Distribution](/EDA_GooglePlay/Assets/Figure_05-Apps_Installs.png)
 
