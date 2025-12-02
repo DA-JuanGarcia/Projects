@@ -95,7 +95,7 @@ The project uses three versions of the dataset:
 - Production-style project structure appropriate for GitHub
 
 # Contact
-Juan José García — Data Analyst
+Juan José García — Data Analyst | Business Analyst | E-commerce Manager
 
 Email: juanjosegarcia@outlook.com
 
