@@ -9,15 +9,15 @@ The goal is to clean messy real-world data, prepare it for analysis using SQL (P
 - Build a professional, well-documented EDA project suitable for a portolio and CV
 
 # Tools Used
-- **PostgreSQL:** Database system used to store and manage the data.
-- **Visual Studio Code (SQL):** For querying, cleaning and analyzing data (CTE, regex, aggregations, CASE logic, etc.).
-- **Power BI:** For creating interactive dashboards and visualizing key insights.
-- **GitHub:** For version control and sharing SQL scripts and analysis, enabling collaboration and project tracking.
+- **PostgreSQL:** Database system used to store and manage the data
+- **Visual Studio Code (SQL):** For querying, cleaning and analyzing data (CTE, regex, aggregations, CASE logic, etc.)
+- **Power BI:** For creating interactive dashboards and visualizing key insights
+- **GitHub:** For version control and sharing SQL scripts and analysis, enabling collaboration and project tracking
 
 # Dataset
 The dataset contains information about ~10k Android apps from the Google Play Store until 2018. Downloaded from Kaggle [[Link]](https://www.kaggle.com/datasets/lava18/google-play-store-apps/data)
 
-It includes 13 columns (app name, category, rating, reviews, size, installs, type, price, content_rating, genres, last_updated, current_ver, android_ver)
+It includes 13 columns (app name, category, rating, reviews, size, installs, type, price, content_rating, genres, last_updated, current_ver, android_ver).
 
 The project uses three versions of the dataset:
 1. apps_raw.csv -> original messy data
@@ -38,7 +38,7 @@ The project uses three versions of the dataset:
 - Missing ratigns and size (~15%)
 - Inconsistent size units (MB, KB)
 - Currency symbols in price
-- Non-numeric characters in installs
+- Non-numeric characters in installs and size
 - Text values like “Varies with device”
 - Duplicate app records
 - Inconsistent date formats
