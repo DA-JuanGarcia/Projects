@@ -6,7 +6,6 @@ The goal is to clean messy real-world data, prepare it for analysis using SQL (P
 - Clean and standardize a real-world dataset using SQL
 - Apply deduplication logic
 - Perform meaningful exploratory analysis
-- Build a professional, well-documented EDA project suitable for a portolio and CV
 
 # Tools Used
 - **PostgreSQL:** Database system used to store and manage the data
