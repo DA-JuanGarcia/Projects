@@ -68,7 +68,7 @@ The final cleaned dataset consists of two main tables:
 ## Visualizations
 
 ### Dashboard: Overview - General Performance
-![Overview Dashboard](/Insurance_Marketing/Assets/Dashboard_Overview.png) 
+![Overview Dashboard](/Insurance_Marketing/Assets/Dashboard_Overview.png)
 
 *This dashboard provides a high-level view of key metrics including total customers, conversion rates, channel distribution and top-performing campaigns.*
 
